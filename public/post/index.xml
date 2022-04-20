@@ -25,14 +25,5 @@
       <description>Docker容器技术搭建MineCraft服务器 Java版服务器(minecraft-server) Docker Hub上寻找镜像 https://hub.docker.com/r/itzg/minecraft-server 拉取镜像 1 docker pull itzg/minecraft-server 请配</description>
     </item>
     
-    <item>
-      <title>HelloWorld</title>
-      <link>http://localhost:1313/post/helloworld/</link>
-      <pubDate>Wed, 05 Jan 2022 19:55:48 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/helloworld/</guid>
-      <description>HelloWorld</description>
-    </item>
-    
   </channel>
 </rss>

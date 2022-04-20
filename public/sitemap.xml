@@ -65,13 +65,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/helloworld/</loc>
-    <lastmod>2022-01-05T19:55:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
