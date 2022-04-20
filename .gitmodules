@@ -1,0 +1,3 @@
+[submodule "PaperMod"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
